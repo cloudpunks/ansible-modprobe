@@ -1,6 +1,6 @@
 ---
 repository:
-  name: modprobe
+  name: ansible-modprobe
   description: Ansible role to load or unload kernel modules
   topics: ansible, role, ansible-role, hacktoberfest
 
