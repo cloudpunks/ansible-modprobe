@@ -1,5 +1,11 @@
 # Changelog
 
+## [4.6.0](https://github.com/rolehippie/modprobe/compare/v4.5.1...v4.6.0) (2026-09-07)
+
+### Features
+
+* add separate requirements for molecule run ([2b857ec](https://github.com/rolehippie/modprobe/commit/2b857ec60bd5d48eea8f182a49883eabab1d4362))
+
 ## [4.5.1](https://github.com/rolehippie/modprobe/compare/v4.5.0...v4.5.1) (2026-08-31)
 
 ### Dependencies
