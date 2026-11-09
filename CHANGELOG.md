@@ -1,5 +1,21 @@
 # Changelog
 
+## [5.0.0](https://github.com/rolehippie/modprobe/compare/v4.8.0...v5.0.0) (2026-11-09)
+
+### Dependencies
+
+* **major:** update dependency community.general to v14 ([#87](https://github.com/rolehippie/modprobe/issues/87)) ([1bad379](https://github.com/rolehippie/modprobe/commit/1bad3790efb85c8c45e6cb251d11aed0dfd9cf33))
+* **mise:** update dependency pipx:ansible-core to v2.22.0 ([#86](https://github.com/rolehippie/modprobe/issues/86)) ([807200e](https://github.com/rolehippie/modprobe/commit/807200eff4f89aa2c29808e49146f3d901c3696c))
+* **mise:** update dependency pipx:ansible-doctor to v8.4.4 ([#91](https://github.com/rolehippie/modprobe/issues/91)) ([fee8c42](https://github.com/rolehippie/modprobe/commit/fee8c42b56306916d46782de6eefa9a6cc5225de))
+* **mise:** update dependency pipx:ansible-lint to v26.10.1 ([#81](https://github.com/rolehippie/modprobe/issues/81)) ([fceebce](https://github.com/rolehippie/modprobe/commit/fceebcee423f7fa82472e9ee19610c76ba2fc9b0))
+* **mise:** update dependency pipx:ansible-lint to v26.11.0 ([#89](https://github.com/rolehippie/modprobe/issues/89)) ([5e8c9cb](https://github.com/rolehippie/modprobe/commit/5e8c9cb59c9453c592abc8bc95798307f9ef45bf))
+* **mise:** update dependency pipx:molecule to v26.11.0 ([#90](https://github.com/rolehippie/modprobe/issues/90)) ([bf0e107](https://github.com/rolehippie/modprobe/commit/bf0e107afc5d09adfb8436c5b66b901f0810660d))
+* **mise:** update dependency prek to v0.5.10 ([#88](https://github.com/rolehippie/modprobe/issues/88)) ([7e62955](https://github.com/rolehippie/modprobe/commit/7e62955930f6802d948adf8d10fc7be10a97560d))
+* **mise:** update dependency prek to v0.5.6 ([#82](https://github.com/rolehippie/modprobe/issues/82)) ([5b850b7](https://github.com/rolehippie/modprobe/commit/5b850b791a5ff194877f6135324a64b0afd4d146))
+* **mise:** update dependency prek to v0.5.7 ([#83](https://github.com/rolehippie/modprobe/issues/83)) ([db84987](https://github.com/rolehippie/modprobe/commit/db849874fd6427a1d1ac07516345ac9a236aea4e))
+* **mise:** update dependency prek to v0.5.9 ([#85](https://github.com/rolehippie/modprobe/issues/85)) ([84a7296](https://github.com/rolehippie/modprobe/commit/84a729660ab24580f7671139b105dd4f17364174))
+* **mise:** update node.js to v26 ([#84](https://github.com/rolehippie/modprobe/issues/84)) ([7df1567](https://github.com/rolehippie/modprobe/commit/7df15671d16c860b89efc229f859ace62f827692))
+
 ## [4.8.0](https://github.com/rolehippie/modprobe/compare/v4.7.0...v4.8.0) (2026-10-12)
 
 ### Dependencies
